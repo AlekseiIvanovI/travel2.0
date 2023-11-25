@@ -42,7 +42,7 @@ const Navbar = () => {
     <nav className={`max-container padding-container relative z-30 py-5 ${isMenuOpen ? 'justify-center' : 'flexBetween'}`}>
       {isLogoVisible && (
         <Link href="/" passHref>
-            <Image src="/hilink-logo.svg" alt="logo" width={74} height={29} />
+            <Image src="/logo-no-background.svg" alt="logo" width={95} height={29} />
         </Link>
       )}
 
