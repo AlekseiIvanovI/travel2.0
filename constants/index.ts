@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/pages/how_work', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/pages/how_work', key: 'how_CampVenture_work', label: 'How CampVenture Work?' },
     { href: '/pages/services', key: 'services', label: 'Services' },
     { href: '/pages/pricing', key: 'pricing ', label: 'Pricing ' },
     { href: '/pages/contact', key: 'contact_us', label: 'Contact Us' },
@@ -29,7 +29,7 @@ export const NAV_LINKS = [
       icon: '/calendar.svg',
       variant: 'red',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Schedule an adventure with friends. On holidays, there are many interesting offers from CampVenture. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
@@ -156,7 +156,7 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
+        'About CampVenture',
         'Press Releases',
         'Environment',
         'Jobs',
@@ -166,7 +166,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing xixixi', 'Hiking CampVenture', 'CampVenture kinthill'],
     },
   ];
   
@@ -174,7 +174,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Officer', value: 'CampVenture@akinthil.com' },
     ],
   };
   
@@ -198,7 +198,7 @@ export const NAV_LINKS = [
         icon: '/mail-line.svg',
         variant: 'red',
         description:
-          'Send us an email at hilink@akinthil.com for non-urgent matters or if you prefer written communication. Our team will respond promptly to your email with the information or assistance you need.',
+          'Send us an email at CampVenture@akinthil.com for non-urgent matters or if you prefer written communication. Our team will respond promptly to your email with the information or assistance you need.',
       },
       {
         title: 'Social Media',
