@@ -16,7 +16,12 @@ const Hero = () => {
         />
         <h1 className="bold-52 lg:bold-88">Discover, Explore, Camp:</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-        Escape the ordinary and immerse yourself in nature's wonders at our travel camp, where unforgettable adventures await.
+        Welcome to our travel camp, where you can embark on a transformative 
+        journey of exploration and self-discovery amidst the breathtaking beauty 
+        of nature's playground. Immerse yourself in awe-inspiring landscapes, 
+        forge deep connections with like-minded adventurers, and create lifelong 
+        memories as you partake in thrilling outdoor activities, indulge in 
+        authentic camping experiences, and embrace the serenity of starlit nights around the campfire.
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
